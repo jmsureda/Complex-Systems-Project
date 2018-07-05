@@ -19,6 +19,7 @@ Considering the number of bodies we can run, due to the high computational power
 - Scipy >= 0.7
 - scikit-learn >= 0.10
 - matplotlib >= 0.99
+- AstroML >= 0.2
 
 ## How to use
 
